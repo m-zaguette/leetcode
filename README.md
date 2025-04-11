@@ -5,8 +5,8 @@ Esta lista agrupa problemas populares do LeetCode por tópico e dificuldade, com
 **1. Arrays (Vetores)**
 
 ### Fácil
-* [Two Sum](https://leetcode.com/problems/two-sum/)
-* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* ~~[Two Sum](https://leetcode.com/problems/two-sum/)~~
+* ~~[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)~~
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ### Médio
