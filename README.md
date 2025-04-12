@@ -10,7 +10,7 @@ Esta lista agrupa problemas populares do LeetCode por tópico e dificuldade, com
 * ~~[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)~~
 
 ### Médio
-* [3Sum](https://leetcode.com/problems/3sum/)
+* ~~[3Sum](https://leetcode.com/problems/3sum/)~~
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 * [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
