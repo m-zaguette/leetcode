@@ -11,7 +11,7 @@ Esta lista agrupa problemas populares do LeetCode por tópico e dificuldade, com
 
 ### Médio
 * ~~[3Sum](https://leetcode.com/problems/3sum/)~~
-* [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* ~~[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)~~
 * [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### Difícil
