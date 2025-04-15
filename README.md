@@ -22,7 +22,7 @@ Esta lista agrupa problemas populares do LeetCode por tópico e dificuldade, com
 **2. Linked Lists (Listas Encadeadas)**
 
 ### Fácil
-* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* ~~[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)~~
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
