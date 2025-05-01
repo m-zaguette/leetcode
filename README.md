@@ -9,6 +9,7 @@ Esta lista agrupa problemas populares do LeetCode por tópico e dificuldade, com
 * ~~[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)~~
 * ~~[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)~~
 * ~~[Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/)~~
+* ~~[Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/)~~
 
 ### Médio
 * ~~[3Sum](https://leetcode.com/problems/3sum/)~~
