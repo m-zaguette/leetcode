@@ -1,4 +1,4 @@
-package linked_lists;
+package linked_lists.models;
 
 // Definition for singly-linked list.
 public class ListNode {

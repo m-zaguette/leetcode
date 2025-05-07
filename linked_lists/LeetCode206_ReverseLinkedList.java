@@ -1,5 +1,7 @@
 package linked_lists;
 
+import linked_lists.models.ListNode;
+
 public class LeetCode206_ReverseLinkedList {
 
     public static void main(String[] args) {
