@@ -24,7 +24,7 @@
 ### Easy
 * ~~[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)~~
 * ~~[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)~~
-* [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+* ~~[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)~~
 
 ### Medium
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)

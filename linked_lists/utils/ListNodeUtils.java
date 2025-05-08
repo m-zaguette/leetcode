@@ -4,7 +4,7 @@ import linked_lists.models.ListNode;
 
 public class ListNodeUtils {
 
-    public static ListNode prepareTest(int[] array) {
+    public static ListNode createListNode(int[] array) {
         ListNode head = new ListNode(-1);
         ListNode current = head;
         final var length = array.length;

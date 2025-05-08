@@ -6,8 +6,8 @@ import linked_lists.utils.ListNodeUtils;
 public class LeetCode21_MergeTwoSortedLists {
 
     public static void main(String[] args) {
-        final var ln1 = ListNodeUtils.prepareTest(new int[] { 1, 2, 4 });
-        final var ln2 = ListNodeUtils.prepareTest(new int[] { 1, 3, 4 });
+        final var ln1 = ListNodeUtils.createListNode(new int[] { 1, 2, 4 });
+        final var ln2 = ListNodeUtils.createListNode(new int[] { 1, 3, 4 });
         ListNodeUtils.printTest(mergeTwoLists(ln1, ln2));
     }
 
