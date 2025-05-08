@@ -5,7 +5,7 @@ import linked_lists.models.ListNode;
 public class LeetCode206_ReverseLinkedList {
 
     public static void main(String[] args) {
-        // This problem was resolved directly in LeetCode platform https://leetcode.com/problems/reverse-linked-list/
+        // This problem was solved directly in LeetCode platform https://leetcode.com/problems/reverse-linked-list/
     }
 
     public static ListNode reverseList(ListNode head) {

@@ -5,7 +5,7 @@ import linked_lists.models.ListNode;
 public class LeetCode141_LinkedListCycle {
 
     public static void main(String[] args) {
-        // This problem was resolved directly in LeetCode platform https://leetcode.com/problems/linked-list-cycle/
+        // This problem was solved directly in LeetCode platform https://leetcode.com/problems/linked-list-cycle/
     }
 
     public static boolean hasCycle(ListNode head) {
