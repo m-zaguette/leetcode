@@ -39,7 +39,7 @@
 **3. Stacks**
 
 ### Easy
-* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* ~~[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)~~
 * [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 
 ### Medium
