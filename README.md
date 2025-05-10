@@ -40,7 +40,7 @@
 
 ### Easy
 * ~~[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)~~
-* [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+* ~~[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)~~
 
 ### Medium
 * [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
