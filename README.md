@@ -43,7 +43,7 @@
 * ~~[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)~~
 
 ### Medium
-* [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+* ~~[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)~~
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ### Hard
