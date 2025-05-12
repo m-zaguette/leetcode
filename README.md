@@ -44,16 +44,15 @@
 
 ### Medium
 * ~~[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)~~
-* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ### Hard
+* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 * [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
-* [Implement Stack using Operations](https://www.google.com/search?q=https://leetcode.com/problems/implement-stack-using-operations/)
 
 **4. Queues**
 
 ### Easy
-* [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+* ~~[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)~~
 * [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 
 ### Medium
